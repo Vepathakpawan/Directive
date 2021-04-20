@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'directive';
+  constructor(){ }
+  name = 'john';
+  Mail ='';
+  contact ='7899552244';
+  address ='Float no 32';
+  Gender ='#';
+
 }
